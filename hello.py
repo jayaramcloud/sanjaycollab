@@ -4,6 +4,6 @@ import turtle
 
 Turtle = turtle.Turtle()
 
-Turtle.write("hello world",font=("Arial", 64, "normal"))
+Turtle.write("hello world",font=("Arial", 32, "normal"))
 
-Turtle.mainloop()
+turtle.getscreen()._root.mainloop()
