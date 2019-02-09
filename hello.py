@@ -4,4 +4,4 @@ import turtle
 
 Turtle = turtle.Turtle()
 
-Turtle.write("messi fan")
+Turtle.write("hello world")
