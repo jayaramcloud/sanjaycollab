@@ -5,3 +5,5 @@ import turtle
 Turtle = turtle.Turtle()
 
 Turtle.write("hello world")
+
+Turtle.mainloop()
